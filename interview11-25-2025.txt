@@ -1,3 +1,46 @@
+1. Tell me about yourself?
+2. git fetch vs git commit?
+3. bootstrap version 3 vs 4?
+4. bootstrap version?
+5. Grid vs Flexbox?
+6. SASS?
+7. CSS Selector?
+8. semantic html?
+9. redux vs redux tool kit?
+10. middleware in react?
+11. optimize performance in react?
+12. controlled vs uncontrolled components?
+13. hooks?
+14. context API?
+15. redux is immutable?
+16. redux?
+17. props immutable? why?
+18. state how to handle?
+19. virtual DOM?
+20. react algorithm?
+21. hoisting?
+22. forEach vs Map?
+23. event bubbling?
+24. event loop?
+25. javascript is synchronous, how does it handle asynchronous ?
+26. callback function?
+27. closure?
+28. spread operator
+29. rest operator
+30. es6 features?
+coding questions
+console.log(a);
+var a = 10;
+
+console.log(a);
+let a = 20;
+
+output: error hoisting.
+
+
+
+
+
 I am a core UI Developer with 12+ years of experience building .com websites for different organizations using HTML5, CSS3,
 JavaScript, Angular 18, React.js, and Redux. 
 In the past 2 years, I worked on the React migration team, where I converted the .net pages to react on united.com. 
